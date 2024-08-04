@@ -4,6 +4,8 @@
 
 #define TEST 1
 
+#define TEST_REBASE 1
+
 char * my_strcpy(char * str_dest, char * str_src)
 {
 	char * ptemp = str_dest;
